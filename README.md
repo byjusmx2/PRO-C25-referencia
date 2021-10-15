@@ -1,2 +1,2 @@
 # PRO-C25-Reference
-Reference code for C25
+Código de referencia para C25
